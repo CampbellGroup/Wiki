@@ -2,11 +2,11 @@ The microwave Ramsey experiment consists of a $\pi/2$ pulse followed by a delay 
 
 For each point on the graph (plotting probability to be in excited state on the vertical axis and delay time on the horizontal) the probability is obtained from several trials. Each trial consists of the following sequence:
 
-1. [[Optical pumping]] initializes the ion to the $\ket{^2S_{1/2}, F=0}$ ground state.
-2. Microwaves are applied to the ion for the duration needed for a $\pi/2$ pulse (running a [[Rabi Flopping]] experiment beforehand to get an accurate $\pi$ time is a good idea).
+1. [Optical pumping](https://github.com/CampbellGroup/Wiki/blob/main/Lab%20Wiki/Experiments/normal%20qubit%20operation.md#optical-pumping) initializes the ion to the $\ket{^2S_{1/2}, F=0}$ ground state.
+2. Microwaves are applied to the ion for the duration needed for a $\pi/2$ pulse (running a [Rabi Flopping](https://github.com/CampbellGroup/Wiki/blob/main/Lab%20Wiki/Experiments/Rabi%20Flopping.md) experiment beforehand to get an accurate $\pi$ time is a good idea).
 3. No pulses trigger as the system evolves freely in time for some given delay time $\tau$.
 4. Microwaves are applied to the ion for the duration needed for a $\pi/2$ pulse.
-5. [[Standard state detection]] is used to determine if we are in our bright ($\ket{^2S_{1/2}, F=1}$) or dark ($\ket{^2S_{1/2}, F=0}$) state.
+5. [Standard state detection](https://github.com/CampbellGroup/Wiki/blob/main/Lab%20Wiki/Experiments/normal%20qubit%20operation.md#standard-state-detection) is used to determine if we are in our bright ($\ket{^2S_{1/2}, F=1}$) or dark ($\ket{^2S_{1/2}, F=0}$) state.
 
 This process is repeated for some "N'' trials at each point of an array of different delay times $\tau$. This iteration over multiple different delay times produces the Ramsey experiment graph.
 # Purpose
