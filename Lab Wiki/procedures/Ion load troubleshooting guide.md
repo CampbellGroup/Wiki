@@ -1,0 +1,12 @@
+- Is the Wavemeter locked?  
+- Is 399 shutter stuck closed?  
+- Is the oven on?
+	- If it's not, see [[Restarting the Oven]]
+- Check [[Nominal Laser Powers]]
+- Check the [[369]] on the good wavemeter
+- Do the trap RF reflections look good?
+- Are the DDS frequencies and powers correct?
+- Are the correct EOM tones on?
+	- [[Windfreak SynthHD]]
+	- [[Windfreak SynthNV]]
+- 

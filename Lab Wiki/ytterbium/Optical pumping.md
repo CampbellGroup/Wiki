@@ -1,0 +1,4 @@
+# Optical Pumping Applied to State Preparation
+State preparation is achieved via optical pumping, in which the 369 nm laser (with a 2,105 GHz sideband for $^{171}Yb^+$) drives transitions from the $\ket{^2S_{1/2}, F=1}$ to the $\ket{^2P_{1/2}, F=1}$ state. These $\ket{^2P_{1/2}, F=1}$ states then either decay to the ground state $\ket{^2S_{1/2}, F=0}$ where they remain, or they decay to $\ket{^2S_{1/2}, F=1}$ state where they are then pumped back into the $\ket{^2P_{1/2}, F=1}$ state to continue optical pumping. This optical pumping thus prepares our ground state qubit $\ket{\downarrow}$ = $\ket{^2S_{1/2}, F=0}$. 
+
+To get our excited state $\ket{^2S_{1/2}, F=1}$, we follow optical pumping with a pi-pulse to Rabi flop the ground state prepared by optical pumping.

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a2f624dcf52f51ac","type":"file","file":"Lab Wiki/software/LabRAD.md","x":-1200,"y":-840,"width":1120,"height":818},
+		{"id":"7a08b1685d22376e","type":"file","file":"Lab Wiki/software/Servers/script scanner.md","x":220,"y":-1400,"width":860,"height":818},
+		{"id":"e920f662afc69cf9","type":"file","file":"Lab Wiki/software/Servers/data vault.md","x":220,"y":-582,"width":860,"height":591},
+		{"id":"a05a8c4405ba60fc","type":"file","file":"Lab Wiki/software/LabRAD Server Map.md","x":-1200,"y":80,"width":2280,"height":700}
+	],
+	"edges":[
+		{"id":"bb1af1923ae1ee2e","fromNode":"a2f624dcf52f51ac","fromSide":"right","toNode":"7a08b1685d22376e","toSide":"left"},
+		{"id":"f4c1d68348c78abc","fromNode":"a2f624dcf52f51ac","fromSide":"right","toNode":"e920f662afc69cf9","toSide":"left"},
+		{"id":"01c3b2bdaf120925","fromNode":"a05a8c4405ba60fc","fromSide":"top","toNode":"a2f624dcf52f51ac","toSide":"top"}
+	]
+}
